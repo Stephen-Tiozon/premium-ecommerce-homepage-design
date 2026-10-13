@@ -1,0 +1,10 @@
+{
+  "description": "Offers a premium online ordering and e-commerce platform for a modern restaurant and artisanal pantry, blending elegant design with seamless shopping and reservations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
